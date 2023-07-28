@@ -1,7 +1,7 @@
 # html_assign2_hw
 Screenshot of HTML code
-![Screenshot (121)](https://github.com/mansi2020/html_assign2_hw/assets/57188328/6b76b8ef-33f3-483c-9fef-6d8b8b9aa667) 
-![Screenshot (122)](https://github.com/mansi2020/html_assign2_hw/assets/57188328/fee8a124-4a85-4bd6-ad1b-6f497b28ee6c)
+![Screenshot (125)](https://github.com/mansi2020/html_assign2_hw/assets/57188328/48ce91cb-2591-424e-b730-520bf0dec6d6)
+![Screenshot (126)](https://github.com/mansi2020/html_assign2_hw/assets/57188328/d9a2e047-f4bb-4c69-acaa-61aa25c58a6e)
 
 HTML tag Description:  
 table tag defines an HTML table. An HTML table consists of one
@@ -19,7 +19,13 @@ td tag defines a standard data cell in an HTML table.
 
 tfoot tag is used to group footer content in an HTML table.  
 
-Screenshot of git bash  
-![Screenshot (124)](https://github.com/mansi2020/html_assign2_hw/assets/57188328/084dec53-58cc-4d8e-b995-a8eb2b8108d2)
+
+Table Attribute:  
+border Attribute is used to specify the border of a table.  
+rules Attribute is used to specify which parts of the inside borders that should be visible.  
+cellspacing attribute is used to set the distance or the space between the edges of the cells of the table.  
+cellpadding Attribute is used to specify the space between the cell content and cell wall.
+colspan attribute in HTML specifies the number of columns a cell should span.  
+ rowspan attribute on a table cell element specifies the number of rows this cell should occupy
 
 
